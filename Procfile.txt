@@ -1,0 +1,1 @@
+web: gunicorn app:salary-predict-by-arpit-somani
